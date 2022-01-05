@@ -1,0 +1,46 @@
+html
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4Xaf0afxbWT0zXRo6apRDS4y8jJPcM0dWg&usqp=CAU);
+    background-size: cover;
+}
+
+.main
+{
+   background-color: rgb(238, 232, 232);
+   margin: 5% 400px;
+   border-radius: 5px;
+   
+}
+h1
+{
+    text-align: center;
+    padding-top: 10px;
+    background-color: rgb(111, 133, 120);
+    color: aliceblue;
+    
+
+}
+.form
+{
+    padding-left: 10px;
+}
+.submit
+{
+    margin-left: 250px;
+    width: 90px;
+    height: 30px;
+    background-color: rgb(58, 180, 85);
+    border-radius: 5px;
+}
+.reset
+{
+    width: 90px;
+    height: 30px;
+    background-color: rgb(211, 54, 54);
+    border-radius: 5px;
+    margin-left: 20px;
+}
+input
+{
+    border-radius: 10px;
+}
